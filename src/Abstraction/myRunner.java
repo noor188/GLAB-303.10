@@ -34,5 +34,6 @@ public class myRunner {
         shapeTriangleObj.setBase(15);
         System.out.println("Area of Triangle is " + shapeTriangleObj.getArea());
         System.out.println(shapeTriangleObj);  // Run Triangle's toString()
+        "String".isEmpty();
     }
 }
